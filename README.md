@@ -25,7 +25,9 @@ It is primarily designed for biochemical molecules like proteins, lipids and nuc
 <tr>
 <td><a href="http://www.infn.it/"><img width="100" src="http://www.infn.it/logo/weblogo1b.gif" border="0" title="The INFN Home Page"></a></td>
 <td>&nbsp;</td>
+<td>
 <a href="http://www.chain-project.eu/"><img width="150" src="https://www.chain-project.eu/image/image_gallery?uuid=4b273102-2ed0-49ca-929f-c23379318171&groupId=3456180&t=1424446552904" border="0" title="The CHAIN-REDS Home Page"></a>
+</td>
 </tr>
 </table>
 </p>
