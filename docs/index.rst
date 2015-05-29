@@ -107,7 +107,7 @@ Each molecular dynamic simulation will produce:
 .. image:: images/GROMACS_input.jpg
    :align: center
 
-A typical *simulation* produces the following files:
+A typical simulation produces, at the end, the following files:
 
 .. code:: bash
 
