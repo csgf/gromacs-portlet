@@ -82,17 +82,17 @@ In the figure below is shown how the application settings have been configured t
 Usage
 ============
 
-The run GROMACS_ simulation the user has to:
+To run a molecular dynamics simulations with GROMACS_ the user has to:
 
-- click on the third accordion,
+- click on the third accordion of the portlet,
 
 - select the GROMACS_ release to use (e.g. *v4.6.5* or *v5.0.4*),
 
 - upload the input *macro* file *(.tpr)*.
 
-For demonstrative use cases, the user can also click on *'Run demo'* and execute GROMACS_ with some pre-configured inputs.
+For demonstrative use cases, the user can also click on *'Run demo'* and execute a simulation with some pre-configured inputs.
 
-Each run will produce:
+Each molecular dynamic simulation will produce:
 
 - std.txt: the standard output file;
 
@@ -107,7 +107,7 @@ Each run will produce:
 .. image:: images/GROMACS_input.jpg
    :align: center
 
-A typical *simulation* log file produces the following files:
+A typical *simulation* produces the following files:
 
 .. code:: bash
 
