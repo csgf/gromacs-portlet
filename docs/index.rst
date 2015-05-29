@@ -82,7 +82,7 @@ In the figure below is shown how the application settings have been configured t
 Usage
 ============
 
-To run a molecular dynamics simulations with GROMACS_ the user has to:
+To run a molecular dynamic simulation with GROMACS_ the user has to:
 
 - click on the third accordion of the portlet,
 
