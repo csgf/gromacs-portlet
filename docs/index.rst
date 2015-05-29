@@ -90,7 +90,7 @@ To run a molecular dynamics simulations with GROMACS_ the user has to:
 
 - upload the input *macro* file *(.tpr)*.
 
-For demonstrative use cases, the user can also click on *'Run demo'* and execute a simulation with some pre-configured inputs.
+For demonstrative use cases, the user can also click on *'Run demo'* check-box and execute a simulation with some pre-configured inputs.
 
 Each molecular dynamic simulation will produce:
 
