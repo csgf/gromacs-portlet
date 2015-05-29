@@ -94,15 +94,15 @@ For demonstrative use cases, the user can also click on *'Run demo'* and execute
 
 Each molecular dynamic simulation will produce:
 
-- std.txt: the standard output file;
+- *std.txt*: the standard output file;
 
-- std.err: the standard error file;
+- *std.err*: the standard error file;
 
-- gromacs.log: the application log file;
+- *gromacs.log*: the application log file;
 
 - some additional log files;
 
-- .tar.gz: the application results available through the gLibrary_ Metadata Server.
+- *.tar.gz*: the application results available through the gLibrary_ Metadata Server.
 
 .. image:: images/GROMACS_input.jpg
    :align: center
