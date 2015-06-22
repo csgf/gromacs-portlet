@@ -1,5 +1,5 @@
 *********************
-GROMACS Docs
+GROMACS 
 *********************
 
 ============
@@ -140,7 +140,7 @@ References
 * CHAIN-REDS Conference: *"Open Science at the Global Scale: Sharing e-Infrastructures, Sharing Knowledge, Sharing Progress"* – March 31, 2015 – Brussels, Belgium [1_];
 
 ============
-Support
+Contact
 ============
 Please feel free to contact us any time if you have any questions or comments.
 
@@ -155,6 +155,3 @@ Please feel free to contact us any time if you have any questions or comments.
 
  `Sarath Kumar BASKARAN <mailto:bskumar.tech@gmail.com>`_ - Centre for Biotechnology, Anna University, Chennai (AUC_),
 
-:Version: v2.0.8, 2015
-
-:Date: May 29th, 2015 15:54
