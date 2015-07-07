@@ -1,4 +1,4 @@
-[![Travis](http://img.shields.io/travis/csgf/gromacsp-portlet/master.png)](https://travis-ci.org/csgf/gromacs-portlet)
+[![Travis](http://img.shields.io/travis/csgf/gromacs-portlet/master.png)](https://travis-ci.org/csgf/gromacs-portlet)
 [![Documentation Status](https://readthedocs.org/projects/csgf/badge/?version=latest)](http://csgf.readthedocs.org)
 [![License](https://img.shields.io/github/license/csgf/gromacs-portlet.svg?style?flat)](http://www.apache.org/licenses/LICENSE-2.0.txt)
 
